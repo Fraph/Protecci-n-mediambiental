@@ -1,5 +1,6 @@
 # Acuerdos internacionales
-<img src="img/fotogod.jpg" alt="fotogod" width="400"/>
+<img src="img/acuerdos.jpeg" alt="acuerdos" width="250"/>
+
 ## Convenio de Estocolmo
 * Objetivo: Reducir o eliminar la producción y uso de contaminantes orgánicos persistentes (COPs), sustancias químicas tóxicas que se acumulan en los organismos vivos y afectan la salud humana y el medio ambiente.
 * Ejemplo de sustancias: DDT, PCB y dioxinas.
