@@ -1,3 +1,6 @@
+![Descripción de la imagen](img/OIP.jfif)
+
+
 Las *políticas y normativas medioambientales en Europa* están diseñadas para abordar problemas ambientales a nivel **local, regional y global**. La Unión Europea es un líder global en temas medioambientales y ha implementado una amplia gama de medidas en áreas claves, los principales son. Su objetivo es proteger, conservar y mejorar el capital natural de la UE. Algunas de las normativas esenciales son: 
 
 ### - Pacto Verde Europeo
@@ -34,6 +37,9 @@ La *Directiva de Residuos* establece metas claras para:
 - Reciclar el 65% de los residuos municipales para 2035.
 - Limitar los vertederos al 10% del total de residuos generados.
 - Reducir el uso de plásticos de un solo uso (Directiva de plásticos 2019).
+
+
+
 
 
 
