@@ -12,4 +12,4 @@
 
 ---
 
-[Autores](Autores.md)
+[Autores](autores.md)
