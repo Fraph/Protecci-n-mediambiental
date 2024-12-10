@@ -1,3 +1,6 @@
+![Descripción de la imagen](img/ee.jfif)
+
+
 La evaluación y gestión del impacto ambiental (EIA) es un proceso que identifica, analiza y mitiga los efectos negativos de actividades humanas sobre el medio ambiente, asegurando un desarrollo sostenible.
 
 ### 1. Identificación del proyecto:
